@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Rafaela Trajano
+# Rafaela
 
-**`Desenvolvedora FrontEnd`**
+**`Faço computaria`**
 
 <p align="left">
   <a href="https://github.com/RafaelaTGL?tab=repositories&sort=stargazers">
