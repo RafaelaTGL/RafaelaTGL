@@ -1,6 +1,6 @@
 # Rafaela
 
-**`SI`**
+**`Estudante de sistema de informação `**
 
 <p align="left">
   <a href="https://github.com/RafaelaTGL?tab=repositories&sort=stargazers">
